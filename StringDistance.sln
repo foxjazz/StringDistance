@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDistancePortable", "StringDistance\StringDistancePortable.csproj", "{C1643E77-B001-44A4-AB0D-0FFD27C7DE13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStringDistance", "TestStringDistance\TestStringDistance.csproj", "{1B146E6E-1CDD-4836-8198-D84EB29005EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDistance", "StringDistanceLib\StringDistance.csproj", "{B0AE23C3-8E51-49B5-9A4B-ECB3B6566B99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1643E77-B001-44A4-AB0D-0FFD27C7DE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1643E77-B001-44A4-AB0D-0FFD27C7DE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1643E77-B001-44A4-AB0D-0FFD27C7DE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1643E77-B001-44A4-AB0D-0FFD27C7DE13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B146E6E-1CDD-4836-8198-D84EB29005EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B146E6E-1CDD-4836-8198-D84EB29005EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B146E6E-1CDD-4836-8198-D84EB29005EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B146E6E-1CDD-4836-8198-D84EB29005EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0AE23C3-8E51-49B5-9A4B-ECB3B6566B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AE23C3-8E51-49B5-9A4B-ECB3B6566B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AE23C3-8E51-49B5-9A4B-ECB3B6566B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AE23C3-8E51-49B5-9A4B-ECB3B6566B99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
