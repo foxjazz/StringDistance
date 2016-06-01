@@ -1,0 +1,10 @@
+{
+  "name": "string-library",
+  "version": "0.0.0",
+  "description": "string-library-algorithms",
+  "main": "app.js",
+  "author": {
+    "name": "Joe",
+    "email": "foxr4@foxjazz.net"
+  }
+}
