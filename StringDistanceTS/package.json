@@ -1,0 +1,10 @@
+{
+  "name": "StringDistanceTS",
+  "version": "0.0.0",
+  "description": "StringDistanceTS",
+  "main": "app.js",
+  "author": {
+    "name": "Joe",
+    "email": ""
+  }
+}
